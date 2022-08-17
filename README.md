@@ -1,2 +1,2 @@
 # Ejemplo-dashboard
-ejemplo dashboard para proyecto 
+Aqui se almacenaran los codigos del dashboard basico 
